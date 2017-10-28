@@ -13,7 +13,7 @@ import javafx.util.Duration;
 
 //Clase Controller del splash
 public class FXMLController implements Initializable {
-    
+    //Alv
     @FXML
     public AnchorPane Pane;
    
